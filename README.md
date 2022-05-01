@@ -49,7 +49,7 @@ O git status irá verificar se os arquivos já foram ou não enviados/versionado
 
 git commit -m "nome do processo"
 
-9- 
+
 
 
 
