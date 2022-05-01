@@ -49,6 +49,20 @@ O git status irá verificar se os arquivos já foram ou não enviados/versionado
 
 git commit -m "nome do processo"
 
+12- Dar o comando de envio chamado: git push
+
+Nesse momento, como são especificados onde será enviado os arquivos versionados através do git push.
+
+13- Voltamos ao Github, abriremos o repositório, copiamos o link na caixa de endereço.
+
+14- Quando damos um git push é nos pedido o comando: git remote add origin "link da página do repositório"
+
+15- Inserimos novamente o comando: git push
+
+Irá aparecer uma linha separada que devemos copiar e dar o comando: git push--set-upstream origin master
+
+
+
 
 
 
